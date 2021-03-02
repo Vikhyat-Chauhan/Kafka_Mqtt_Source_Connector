@@ -25,7 +25,7 @@ A Python 2.7 based Mqtt Source Connector script for Kafka..
                 cd Kafka_Mqtt_Source_Connector
                 
                 sudo python producer.py
-   Note : Do check the dependancys in the python script and use pip install to get them.
+   Note : Do check the dependancies in the python script and use pip install to get them.
    
 #Link to some Resources that I found helpful.
   
