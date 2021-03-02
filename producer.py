@@ -1,7 +1,7 @@
 from kafka import KafkaProducer
 import paho.mqtt.client as paho
 import yaml
-import json
+import json  
 
 #setting up Mqtt Server credentials(setup up a local mosquitto instance
 broker = "0.0.0.0"
